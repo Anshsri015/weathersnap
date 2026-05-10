@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherSnap</string>
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="camera_permission_rationale">This app needs camera access to capture weather evidence photos.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="go_back">Go Back</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="save_report">Save Report</string>
+    <string name="create_report">Create Report</string>
+    <string name="saved_reports">Saved Reports</string>
+    <string name="no_reports_yet">No reports yet</string>
+    <string name="search">Search</string>
+    <string name="city_hint">Enter more than 2 letters to start city suggestions.</string>
+    <string name="report_readiness">Report readiness</string>
+    <string name="camera_room_enabled">Camera and Room DB enabled</string>
+    <string name="field_notes">Field Notes</string>
+    <string name="notes_placeholder">Notes</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="reports">Reports</string>
+    <string name="original">Original</string>
+    <string name="compressed">Compressed</string>
+    <string name="custom_camera">Custom Camera</string>
+    <string name="live_weather_subtitle">Live weather reports with camera evidence</string>
+    <string name="capture_compress_annotate">Capture, compress, annotate</string>
+    <string name="fetching_weather">Fetching weather…</string>
+    <string name="no_results">No results found for that city.</string>
+    <string name="search_city_idle">Search a city to see live weather.</string>
+    <string name="no_image">No image</string>
+</resources>
